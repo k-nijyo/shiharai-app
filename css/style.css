@@ -1,0 +1,25 @@
+.jumbotron {
+    padding-bottom: 26px;
+    padding-top: 60px;
+}
+
+form label {
+    display: block;
+}
+
+form input[type=text] {
+    width:   95%;
+    display: inline;
+}
+
+table {
+    display: none;
+}
+
+table #result_total_train_fare {
+    width: 10%;
+}
+
+table #result_salary {
+    width: 15%;
+}
